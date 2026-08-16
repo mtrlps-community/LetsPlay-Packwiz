@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/custom-hud/profile1.txt"
+hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
+preserve = true
+
+[[files]]
+file = "resourcepacks/distant-horizons-zh.pw.toml"
+hash = "3990fdde4366f9179501bac685ee141945c35092ba335f9eef703cd288b4ed6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/masa-mod-translationpack.pw.toml"
+hash = "85256bba1977fdd212046f801837460543db6200044b42aa9c8f3db3f121fc88"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "02d7843d754ee03ca2fc8b2499d75d734de20feaba93df7767692fd84ee0738a"
+preserve = true
+
+[[files]]
+file = "unsup.toml"
+hash = "942eb5d1c8e30d3cf81b71b2f19dd5a276ac54159e2e9d8822ae9854508c2861"

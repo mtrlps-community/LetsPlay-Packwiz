@@ -1,0 +1,82 @@
+[flavor_groups.xaero]
+name = "Xaero 系列"
+side = "client"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_none"
+name = "无"
+description = "不安装 Xaero 系列 Mod。"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_minimap"
+name = "小地图"
+description = "只安装 Xaero 的小地图。"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_worldmap"
+name = "World Map"
+description = "只安装 Xaero 的世界地图。"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_plus"
+name = "XaeroPlus"
+description = "安装 Xaero 的小地图、Xaero 的世界地图和 XaeroPlus。"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_maplink"
+name = "Map Link"
+description = "安装 Xaero 的小地图、Xaero 的世界地图和 Map Link。"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_all"
+name = "全部"
+description = "安装 Xaero 的小地图、Xaero 的世界地图、XaeroPlus 和 Map Link。"
+
+[flavors_groups.masa]
+name = "MASA 系列"
+description = "此处指的是所有依赖 MaLiLib 的 Mod。(包括 TweakerMore)"
+side = "client"
+
+[[flavor_groups.masa.choices]]
+id = "masa_none"
+name = "无"
+description = "不安装 MASA 系列 Mod。"
+
+[[flavor_groups.masa.choices]]
+id = "masa_tweakeroo"
+name = "Tweakeroo"
+description = "安装 MaLiLib、Tweakeroo 和中文翻译包。"
+
+[[flavor_groups.masa.choices]]
+id = "masa_tweakermore"
+name = "TweakerMore"
+description = "安装 MaLiLib 和 TweakerMore。"
+
+[[flavor_groups.masa.choices]]
+id = "masa_all"
+name = "全部"
+description = "安装 MaLiLib、Tweakeroo、TweakerMore 和中文翻译包。"
+
+[metafile.xaeros-minimap]
+flavors = ["xaero_minimap", "xaero_plus", "xaero_maplink", "xaero_all"]
+
+[metafile.xaeros-world-map]
+flavors = ["xaero_worldmap", "xaero_plus", "xaero_maplink", "xaero_all"]
+
+[metafile.xaeroplus]
+flavors = ["xaero_plus", "xaero_all"]
+
+[metafile.maplink]
+flavors = ["xaero_maplink", "xaero_all"]
+
+[metafile.malilib]
+flavors = ["masa_tweakeroo", "masa_tweakermore", "masa_all"]
+
+[metafile.tweakeroo]
+flavors = ["masa_tweakeroo", "masa_all"]
+
+[metafile.tweakermore]
+flavors = ["masa_tweakermore", "masa_all"]
+
+[metafile.masa-mod-translationpack]
+flavors = ["masa_tweakeroo", "masa_all"]

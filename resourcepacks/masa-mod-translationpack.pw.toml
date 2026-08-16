@@ -1,0 +1,19 @@
+name = "Masa Mod Translation Pack"
+filename = "1.20-masa-mods-chinese.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/J8iptRRF/1.20-masa-mods-chinese.zip"
+hash-format = "sha1"
+hash = "6841651b6295323d306b291beca2553f308a5701"
+
+[update]
+[update.modrinth]
+mod-id = "IEt3hTCe"
+version = "J8iptRRF"
+
+[option]
+optional = true
+description = "MASA 系列模组中文翻译包。"
+default = true

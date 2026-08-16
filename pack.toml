@@ -1,0 +1,14 @@
+name = "MTR LetsPlay Server Modpack"
+author = "Zbx1425"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a954ef0eeb809d644144fccd010290d22d7f0545b8d2380e24846c3039114fae"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.4"
+unsup = "1.2.7"
