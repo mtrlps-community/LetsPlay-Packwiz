@@ -53,7 +53,7 @@ jobs:
               echo "Deleting: $filename"
               rm -f "$filename"
             fi
-          done < ../delete-list.txt
+          done < ../../delete-list.txt
 
       - name: Update mods & refresh packwiz metadata
         run: |
