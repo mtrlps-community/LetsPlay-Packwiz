@@ -1,0 +1,17 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.20.4-0.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t5wuYk45/versions/ZuvsKacQ/tweakeroo-fabric-1.20.4-0.19.4.jar"
+hash-format = "sha1"
+hash = "23259bc3c2d398233db225d2c3ce3fdf5cca1c4f"
+
+[update]
+[update.modrinth]
+mod-id = "t5wuYk45"
+version = "ZuvsKacQ"
+
+[option]
+optional = true
+description = "工具箱。"

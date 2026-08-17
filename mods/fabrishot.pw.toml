@@ -1,0 +1,17 @@
+name = "Fabrishot"
+filename = "fabrishot-1.12.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/crC7YOpw/fabrishot-1.12.1.jar"
+hash-format = "sha1"
+hash = "c348c0966a2169a67f6a40f80a85c699104a8642"
+
+[update]
+[update.modrinth]
+mod-id = "3qsfQtE9"
+version = "crC7YOpw"
+
+[option]
+optional = true
+description = "高清截图。分辨率最高可达 8120x8120。"

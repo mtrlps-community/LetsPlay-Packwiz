@@ -1,0 +1,18 @@
+name = "Zoomify (Zoom)"
+filename = "zoomify-2.15.2+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/eM4pcNnS/zoomify-2.15.2%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "9996adf007971e3688d049d943753b28a5fec2e7"
+
+[update]
+[update.modrinth]
+mod-id = "w7ThoJFB"
+version = "eM4pcNnS"
+
+[option]
+optional = true
+description = "按快捷键时放大的功能，可调整放大倍数，用来看显示屏比较方便。"
+default = true

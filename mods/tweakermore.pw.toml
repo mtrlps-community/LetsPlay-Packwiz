@@ -1,0 +1,17 @@
+name = "TweakerMore"
+filename = "tweakermore-v3.32.1-mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/PtR1LkUR/tweakermore-v3.32.1-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "54ce3a0f43afbb38a43558f7b1929f120cb3fd61"
+
+[update]
+[update.modrinth]
+mod-id = "GBeCx05I"
+version = "PtR1LkUR"
+
+[option]
+optional = true
+description = "工具箱。"

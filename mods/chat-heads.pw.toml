@@ -1,0 +1,18 @@
+name = "Chat Heads"
+filename = "chat_heads-0.15.6-fabric-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ESx6D7ns/chat_heads-0.15.6-fabric-1.20.4.jar"
+hash-format = "sha1"
+hash = "9b3bd3e6304a3a5cc3e7ca61767130b5592ecec9"
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "ESx6D7ns"
+
+[option]
+optional = true
+description = "在玩家所发信息前显示其皮肤头像。"
+default = true

@@ -1,0 +1,17 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-3.2.0-b-1.20.4-fabric-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/2LXHMjPK/DistantHorizons-3.2.0-b-1.20.4-fabric-forge.jar"
+hash-format = "sha1"
+hash = "c577df9eccdb1b85f0d9a7aea3042e166bc95ccd"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "2LXHMjPK"
+
+[option]
+optional = true
+description = "站得高，看得远。可以实现更远的视距。"

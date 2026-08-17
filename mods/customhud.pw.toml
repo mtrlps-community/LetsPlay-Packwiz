@@ -1,0 +1,18 @@
+name = "CustomHud"
+filename = "custom_hud-4.0.0+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/7dkB1mZ5/custom_hud-4.0.0%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "32a2dae0f32b3a63c91f4d93739e11bd52e8c90e"
+
+[update]
+[update.modrinth]
+mod-id = "6jis0UTI"
+version = "7dkB1mZ5"
+
+[option]
+optional = true
+description = "显示一些例如坐标、朝向 (各轴 +/-) 的信息。所有显示信息都可以自定义设置。"
+default = true
