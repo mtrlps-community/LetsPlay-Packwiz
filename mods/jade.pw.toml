@@ -1,0 +1,17 @@
+name = "Jade"
+filename = "Jade-1.20.4-fabric-13.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.mcimirror.top/data/nvQzSEkH/versions/fNHCa6bl/Jade-1.20.4-fabric-13.3.1.jar"
+hash-format = "sha1"
+hash = "2ff084c97e2b1183e1e2dc56d095c0ef00aeb88a"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "fNHCa6bl"
+
+[option]
+optional = true
+description = "显示你目前指向的方块或实体的具体信息。"

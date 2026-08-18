@@ -1,0 +1,18 @@
+name = "Bobby"
+filename = "bobby-5.1.0+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.mcimirror.top/data/M08ruV16/versions/jGGumR4a/bobby-5.1.0%2Bmc1.20.4.jar"
+hash-format = "sha1"
+hash = "3c4437a3199629377faeda77e50b01577c4da027"
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "jGGumR4a"
+
+[option]
+optional = true
+description = "缓存区块。用于避免乘车时速度过快导致区块加载不及时的问题。"
+default = true

@@ -1,0 +1,13 @@
+name = "Slideshow Proxy"
+filename = "slideshowproxy-1.0.4+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha1"
+hash = "3b90f10e0a6e569ea1f55e63a84597cd9be44a3a"
+
+[option]
+optional = true
+description = "[[ 由社区提供 ]]\n在没有代理的情况下加速部分 Slideshow 图片的显示。"
+default = true

@@ -1,0 +1,17 @@
+name = "IMBlocker"
+filename = "IMBlocker-5.5.4-fabric+1.17-1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.mcimirror.top/data/WMDesFsZ/versions/g85fdqxk/IMBlocker-5.5.4-fabric%2B1.17-1.21.8.jar"
+hash-format = "sha1"
+hash = "5977083d97739d5a3adaadef6154ac80907535b9"
+
+[update]
+[update.modrinth]
+mod-id = "WMDesFsZ"
+version = "g85fdqxk"
+
+[option]
+optional = true
+description = "解决输入法冲突。\n据说可能对性能有影响。"

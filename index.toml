@@ -2,8 +2,253 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
-hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
+hash = "30b93afb5eaf46b5a4af28e234f11e816746bbb69a919df0862d784b02288a58"
 preserve = true
+
+[[files]]
+file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
+hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
+
+[[files]]
+file = "mods/MTR-fabric-4.0.5+1.20.4.jar"
+hash = "0a01fac781e43c60a994caf1bba061cff472ca474d2aa5572d4813e203cd32f5"
+
+[[files]]
+file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
+hash = "ce6c3288ea417fe1cde541ac1f1d6e555bc0f36532e7431207d2a2c451d7bac5"
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "b235ed4a367b9a0b02d2c233e12b44ebaaf7071c4e551d53d9c7aafdaec18edf"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "a209412f386948752fe3bb0ce8a2ec5be5f5658f141d97bfbc4b2d12040be130"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "b29f3fcf93b24c97535649ed69166ffbc496e23f94d3c714be827b9e4846e472"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "69a289f7ab3f6104c74d3412d0d2a19c4bdff927de1639aafddd6c8c7926dbd1"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "8ea945009736e32d09290f8a70fa660a72d573d9c87a9e5bf3ae9339a8b4a862"
+metafile = true
+
+[[files]]
+file = "mods/customhud.pw.toml"
+hash = "435c7ce77b8149c4710a9ece62c6998ad3afe324082c6412fc07304e22365659"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "275afda948259fd27fb4f1978f8cdef4b424f2b2a7e559df31983825aae4619a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1ac65eeb05881fe59d8871c91a731484ed1c083e943656e7715e6486f0a42372"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "eb4cce1e6d70cc67de8af90c115cac8c7e2f328aed1307d7281ca2b9ef4c363e"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "d5b1abba5a80f4a539b6b8503b506abb877e19538c4a55f3e67733ed9d856335"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "488fc8f6f58b7b7217ed0b5af5b36911dc6d21259d5366fee0fa32767fc934ca"
+metafile = true
+
+[[files]]
+file = "mods/filters-api.pw.toml"
+hash = "40132c0fcdbaa8ab7dbf933e6ba353e0f3f43e9dd4106dc92e0bfee68273d849"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "6fc2b87ae0ed73c9a76fe0855cec5c5730b73a1a8f698c0c5ff4413eada2b224"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "d941a6352486b21210775d2d040716e0a204ebd96ce2f138f052d3930416eb5a"
+metafile = true
+
+[[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "2c5b5c500ec219b35488011122fdf6f29d951c7f6a6558febef5a5ab6e4e3cc0"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d3a2541ce1c019612a9054f938f820ff46c36003f37c3fd06bd605d99812033b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "52d1ec252cf94ae33aaa18cf831a9ee18342f97ba9805041a72742c2956d38f7"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7420bbe48774dde99fae74b16dcbd230947e368d63a6ea54a6bd6a045f69cc7b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "34a93074aeacb44bf91f596c000e93fa3c7ab3b44db3448c910438235f6b17c3"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "0483881d030b337496eaa6f54212178eac5f85c617cdbfc23d5fa5db0de35dbd"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4f9f899a416f2c360a7ae7c2ffdb0f2b525323447e6ab71a3287326c690833bb"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "68bb572676ceb51848180a0693a2a30a4f79188583336a153176836cfd4c2097"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "5a5c8797a192a46315bc124cc798e340c90cf5d85e64f365c221fa22527c6580"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "4acfafd3cec54d59df337fb45564b064f83cd0791f510de8ce4c98f81aaa8dc0"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "f08c3550ec8bf488c63410c3ee6046598a62961fb2f0ca63ffdca054cc9c486d"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "6fdf1f511439d08007d4698fbf588c2fb7a43ee90ff7b793d8322606e29505a1"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "059695d287b545c0448112348ec33fd0c9e8633092412c14bb3f0f99fb1aef85"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "21544ba8cc05f5f7e9432a3bc28d70b0ddc9631357ed47f34cb9bb81369138a7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "dc0f529e155bdbb7d8bfe8450c9b2ba0d005e83430ce230953f416a85e6ca14a"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "bf1ca0ac972d5b3f58ede93f01d2c848b4aee87ef786de90e9a9ce32508b5b6d"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "df4211b6591fb6267b1f94775eff17cc56de0a57cb26063e97dfacdaae8b43ea"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
+hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
+
+[[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "9efb56e8d3461f3dfe3694c8b097ad01d2bf485f2e9a3f2e86a16fcb24214354"
+metafile = true
+
+[[files]]
+file = "mods/slideshowproxy.toml"
+hash = "15472c57125a4e8dafd758f9bf2d48005d48e1c83619ef5b8b413ef37ecc9a16"
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "75f407a63ead54163ef2dd3273b6896e7a53a2caef1de20af637e11399e88cc0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "7dae8966d1729089d221fec1dcb8885bb375bd87e4aa7b44883b738305858326"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6946a4e4432e60a500c804b2da892964b750df158b358443afdd9ce95c2eacae"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "a01db0a064196b6f5abefb188ecc97ea59460ee1dafdb3094a30f5c5e8abeccd"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "54ef91aebac9f94c17effd1c5d2d03e53db554bf94e1e4db91c29194be8b0824"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro.pw.toml"
+hash = "1eeb9ad92d5dedbe435d958d5b12178721e5f09b87ca858df16433daf41bb371"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "3ff8195bab9611ea5d97ab73f35251707e374ee2ad2a7acb0c447a547edcda95"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "00dc1119ee52c9d659acb55eda0157a5d79cd3b9fea2d6d42ecb3a8ad7f31e2a"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "38521ad7157449230454e348c666d398cb29fc7465781b3a896f8cca2c088e56"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "03dd0433f1c7c7acb4a153acb29e2797023bfc232726460d33d48ce17a16366a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6bb8f0ce76ca81381d6d28f0f8e9a1623447e3a0c841257c20f65d30f3dc12fe"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e43f59dcec3df1bf532b8defd64977dfb9be0379c408031b7e6a5d863772be01"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "2d6b5ee6086754e6fe7ea9fa864e807c268dc072b24b34ec2d1ff4a7b087fbc1"
+metafile = true
 
 [[files]]
 file = "resourcepacks/distant-horizons-zh.pw.toml"

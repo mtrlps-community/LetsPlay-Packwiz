@@ -1,0 +1,18 @@
+name = "Continuity"
+filename = "continuity-3.0.0+1.20.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.mcimirror.top/data/1IjD5062/versions/WMwDkIY8/continuity-3.0.0%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "d99ae792024c9ef21c2da8481b3e9e474bdfbe0c"
+
+[update]
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "WMwDkIY8"
+
+[option]
+optional = true
+description = "提供连接纹理。"
+default = true
