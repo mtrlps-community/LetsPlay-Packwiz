@@ -1,0 +1,150 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/custom-hud/profile1.txt"
+hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
+preserve = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3acf9ae5cc334da4224dc8aff8d4e07a8607400e1ec7a58854e2d90760cf6ad8"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "a9428b7ac5bd6c840fcdfc8af45f31b36f213bb8b35b9098e29d753990cf7227"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "cfc52df302c205f016b1478b44a27f0d06771daa5e867b35f191d88a5658cc05"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "0ce11498547d978d6c9756af19498782248c4ed0c54ad45b25b47269f108aa9c"
+metafile = true
+
+[[files]]
+file = "mods/customhud.pw.toml"
+hash = "153441df36b9e3d3197832473e26b71ea8a1d48b2ed83f4df0de62d14e690dd2"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "263fe0bec90fb081aef696ba48396c780934d3e8faf047311598bcda1bd69967"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "31a8297ae78f2b825a179e92d8d6097467a88d5b7f84694a92ebeb38e8e286ff"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9495a3f408a12f46bb1d2e4e39287f98496410c397fae23c20e5ea913e6991c4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "0a0c673130c795409f511007024a8397d53b9ee31ff8a429d55f01ad85cdc4d6"
+metafile = true
+
+[[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "673651dfe660ec893eb690e8b59c54e400834b8587e2385a71429d932e712a2a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "6b8b7205ae700af981286c1241548ac10aaf05b515057f6ff1e96daa550fdd67"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6f529bc471214cfb65a1db8b0ba76e5cd922e7dd79f19ea18bc7bb84c4f8dccb"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4549a080c6b0c37242c50100c12ebe02f7ad5e10f4d9ef090cb03c5a1adaa79e"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "5519a0db0bb693ec40025c114497e6ce51e38817807092d6f6692b3a2737e097"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "ce16148476644750324f6c1d78b9ec8c50d77c5f6eaab5f19d9c6bd48c64e20a"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "b090cc4291016ef9999e31a7f89b013c3c47e63d36aa7f88b2d4e69625ac0962"
+metafile = true
+
+[[files]]
+file = "mods/slideshowproxy.toml"
+hash = "5d99a9a36c4a685f73627ce20a163080a73c8789bae8ffef53d55670c55d4636"
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9d489c05461c8b33a5a1f1718ffaf0dc13b206855f747db839693cc34ca15a8d"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "153a6e0a697c9d3568491c51994d94170de3718dc066fae0c0a00ecbbac79d0a"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "5d9c744d6005f4691981de882426b1e1186439080274fc2f5923b8379d8aa21f"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "6369204d9fbe74f3cc7692bfc22a87480ad96a829d875e068d7dfa035cc46f92"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "7bbc36a64caa7a7c1340b2bcdb1d7c247d6781cccc5987078fa4c26b233260a3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "04f9dfa6995d432612f02e7bd6599b02c93bd658d874cd12443bcbcd27bf2d01"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "540057e496532cc59265d56aa6049a372fad231253f1f53ca063b5e9fa398269"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "7e5ff84633f847c3e2da35e7e0b89ad5e7a521ec7cf687e272d7ff59cc0646a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/distant-horizons-zh.pw.toml"
+hash = "3990fdde4366f9179501bac685ee141945c35092ba335f9eef703cd288b4ed6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/masa-mod-translationpack.pw.toml"
+hash = "85256bba1977fdd212046f801837460543db6200044b42aa9c8f3db3f121fc88"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "02d7843d754ee03ca2fc8b2499d75d734de20feaba93df7767692fd84ee0738a"
+preserve = true

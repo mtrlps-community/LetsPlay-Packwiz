@@ -41,9 +41,10 @@ jobs:
       
       - name: Sync mods
         run: |
-          rm -rf ./unsup/mods/
+          rm -rf ./unsup/*
           cp -rf ./official/mods/ ./unsup/
-          cp -rf ./mods/ ./unsup/
+          cp -rf ./content/* ./unsup/
+          echo "*.toml -text" > ./unsup/.gitattributes
           
       - name: Remove specified files from mods folder
         run: |
@@ -59,7 +60,7 @@ jobs:
         run: |
           cd ./unsup/
           packwiz update --all
-          find ./mods -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/cdn.mcimirror.top/g' {} +
+          find ./mods/ -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/cdn.mcimirror.top/g' {} +
           packwiz refresh
       
       - name: Commit & push to orphan branch
