@@ -3,7 +3,7 @@ filename = "tweakeroo-fabric-1.20.4-0.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.mcimirror.top/data/t5wuYk45/versions/ZuvsKacQ/tweakeroo-fabric-1.20.4-0.19.4.jar"
+url = "https://mod.mcimirror.top/data/t5wuYk45/versions/ZuvsKacQ/tweakeroo-fabric-1.20.4-0.19.4.jar"
 hash-format = "sha1"
 hash = "23259bc3c2d398233db225d2c3ce3fdf5cca1c4f"
 

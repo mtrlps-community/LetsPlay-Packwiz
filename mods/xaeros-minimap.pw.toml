@@ -4,7 +4,7 @@ side = "both"
 pin = true
 
 [download]
-url = "https://cdn.mcimirror.top/data/1bokaNcj/versions/D1pE0bd4/xaerominimap-fabric-1.20.4-25.3.10.jar"
+url = "https://mod.mcimirror.top/data/1bokaNcj/versions/D1pE0bd4/xaerominimap-fabric-1.20.4-25.3.10.jar"
 hash-format = "sha1"
 hash = "e4880b7b571b8ed37df16f9546ed8b08db425269"
 

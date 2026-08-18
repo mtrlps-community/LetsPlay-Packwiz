@@ -4,7 +4,7 @@ side = "client"
 pin = true
 
 [download]
-url = "https://cdn.mcimirror.top/data/kiByZ6gx/versions/iaBJXOOP/maplink-fabric-4.4.0-1.20.3-1.20.4.jar"
+url = "https://mod.mcimirror.top/data/kiByZ6gx/versions/iaBJXOOP/maplink-fabric-4.4.0-1.20.3-1.20.4.jar"
 hash-format = "sha1"
 hash = "0830face28f81a6b088aea912be072dd79d660b5"
 
