@@ -98,6 +98,7 @@ metafile = true
 [[files]]
 file = "mods/slideshowproxy.toml"
 hash = "1fbd6a481116a891c80486bc0b0c92d33ebbe4287fafb9893fc38607859cbbb6"
+metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
