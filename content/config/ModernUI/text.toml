@@ -1,0 +1,13 @@
+
+#Text Engine Config
+[text]
+	#When enabled, Modern UI will compute texel density in device-space to determine whether to use SDF text or bilinear sampling.
+	#This feature requires GLSL 400 or has no effect.
+	#This generally decreases performance but provides better rendering quality.
+	#This option only applies to TrueType fonts. May not be compatible with OptiFine.
+	smartSDFShaders = false
+	#When enabled, Modern UI will use SDF text rendering if appropriate.
+	#Otherwise, it uses nearest-neighbor or bilinear sampling based on texel density.
+	#This option only applies to TrueType fonts.
+	allowSDFTextIn2D = false
+

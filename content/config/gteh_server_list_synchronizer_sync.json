@@ -1,0 +1,6 @@
+{
+  "remoteUrl": "https://gitea.dusays.com/fenychn0206/static/raw/branch/main/servers.json",
+  "connectTimeoutSeconds": 5,
+  "readTimeoutSeconds": 5,
+  "retryDelaySeconds": 5
+}

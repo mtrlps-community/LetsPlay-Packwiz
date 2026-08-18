@@ -1,0 +1,8 @@
+{
+	"collision": {
+		"ignoreAll": true
+	},
+	"utility": {
+		"allowInteract": true
+	}
+}
