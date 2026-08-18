@@ -6,6 +6,10 @@ hash = "30b93afb5eaf46b5a4af28e234f11e816746bbb69a919df0862d784b02288a58"
 preserve = true
 
 [[files]]
+file = "mods/MRPU-1.20.4-3.1.0.jar"
+hash = "257208a0c4e09fba0d60c43255312d59c99b50931bbc778f5f289e7a074325a0"
+
+[[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
 hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
@@ -171,10 +175,6 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "f5bff06f77d5fd1085e4dcfd3caeacfb4842069f491fcf34d5150a91b80faedb"
 metafile = true
-
-[[files]]
-file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
-hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
