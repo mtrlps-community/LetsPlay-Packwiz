@@ -1,5 +1,6 @@
 [flavor_groups.xaero]
 name = "Xaero 系列"
+description = "Xaero 制作的 Mod 及其附属 Mod。"
 side = "client"
 
 [[flavor_groups.xaero.choices]]
@@ -32,7 +33,7 @@ id = "xaero_all"
 name = "全部"
 description = "安装 Xaero 的小地图、Xaero 的世界地图、XaeroPlus 和 Map Link。"
 
-[flavors_groups.masa]
+[flavor_groups.masa]
 name = "MASA 系列"
 description = "此处指的是所有依赖 MaLiLib 的 Mod。(包括 TweakerMore)"
 side = "client"
