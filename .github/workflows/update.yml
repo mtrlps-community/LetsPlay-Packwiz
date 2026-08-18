@@ -60,7 +60,7 @@ jobs:
         run: |
           cd ./unsup/
           packwiz update --all --yes
-          find ./mods/ -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/cdn.mcimirror.top/g' {} +
+          find ./mods/ -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/mod.mcimirror.top/g' {} +
           packwiz refresh
       
       - name: Commit & push to orphan branch
