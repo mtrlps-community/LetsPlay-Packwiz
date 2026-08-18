@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4a6ff7e2343a491d5fdd044bb68ee940fa4a02f5f7b4e46caa8f3504e5488ef6"
+hash = "d86ee3b9f13d390ee5453183c048fc1e12a6933b85d7ed42b0a25080f05996a5"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/slideshowproxy.toml"
-hash = "15472c57125a4e8dafd758f9bf2d48005d48e1c83619ef5b8b413ef37ecc9a16"
+hash = "4d182a918ec7e63af708d7e0407361ba02a5dd66d05b008237d7657b11c14f59"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/distant-horizons-zh.pw.toml"
-hash = "3990fdde4366f9179501bac685ee141945c35092ba335f9eef703cd288b4ed6a"
+hash = "50b43647998bf41950399469a8da1352f4271e972533945046ea9b0ca22d3b1c"
 metafile = true
 
 [[files]]

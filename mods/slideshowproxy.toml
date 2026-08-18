@@ -3,9 +3,9 @@ filename = "slideshowproxy-1.0.4+mc1.20.4.jar"
 side = "client"
 
 [download]
-url = ""
-hash-format = "sha1"
-hash = "3b90f10e0a6e569ea1f55e63a84597cd9be44a3a"
+url = "https://gitea.dusays.com/fenychn0206/static/raw/branch/main/slideshowproxy-1.0.4+mc1.20.4.jar"
+hash-format = "sha256"
+hash = "8ebbe875c660b422e6dace3f5c1c55918e1faf8bc5c64015c51e72ab26b50542"
 
 [option]
 optional = true
