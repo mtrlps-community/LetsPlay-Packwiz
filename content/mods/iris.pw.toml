@@ -1,0 +1,8 @@
+name = "Iris Shaders"
+filename = "iris-1.7.5-snapshot+mc1.20.4-DH-compatible.jar"
+side = "client"
+
+[download]
+url = "https://gitea.dusays.com/fenychn0206/static/raw/branch/main/iris-1.7.5-snapshot+mc1.20.4-DH-compatible.jar"
+hash-format = "sha256"
+hash = "3dba83ba311b1e3f681eac65bf9a4ba232f98c78eeeaf472f5b89029265be739"

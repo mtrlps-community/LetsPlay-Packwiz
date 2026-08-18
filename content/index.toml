@@ -66,6 +66,11 @@ hash = "6b8b7205ae700af981286c1241548ac10aaf05b515057f6ff1e96daa550fdd67"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "af540159c9eec9f8e5cdd2c6cb900603b1c34aab73aa272b443034580ddb500e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "6f529bc471214cfb65a1db8b0ba76e5cd922e7dd79f19ea18bc7bb84c4f8dccb"
 metafile = true
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/slideshowproxy.toml"
-hash = "5d99a9a36c4a685f73627ce20a163080a73c8789bae8ffef53d55670c55d4636"
+hash = "1fbd6a481116a891c80486bc0b0c92d33ebbe4287fafb9893fc38607859cbbb6"
 
 [[files]]
 file = "mods/spark.pw.toml"
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/distant-horizons-zh.pw.toml"
-hash = "3990fdde4366f9179501bac685ee141945c35092ba335f9eef703cd288b4ed6a"
+hash = "50b43647998bf41950399469a8da1352f4271e972533945046ea9b0ca22d3b1c"
 metafile = true
 
 [[files]]

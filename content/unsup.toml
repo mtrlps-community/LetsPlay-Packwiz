@@ -15,7 +15,7 @@ description = "只安装 Xaero 的小地图。"
 
 [[flavor_groups.xaero.choices]]
 id = "xaero_worldmap"
-name = "World Map"
+name = "世界地图"
 description = "只安装 Xaero 的世界地图。"
 
 [[flavor_groups.xaero.choices]]
