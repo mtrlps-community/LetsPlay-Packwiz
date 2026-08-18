@@ -59,7 +59,7 @@ jobs:
       - name: Update mods & refresh packwiz metadata
         run: |
           cd ./unsup/
-          packwiz update --all
+          packwiz update --all --yes
           find ./mods/ -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/cdn.mcimirror.top/g' {} +
           packwiz refresh
       
