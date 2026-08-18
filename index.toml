@@ -1,8 +1,45 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ModernUI/text.toml"
+hash = "e5f38dcbf01f56d38a4c0f9e00a0407aaed0d9cf84f27e23df02df26d8ab8471"
+preserve = true
+
+[[files]]
 file = "config/custom-hud/profile1.txt"
 hash = "30b93afb5eaf46b5a4af28e234f11e816746bbb69a919df0862d784b02288a58"
+preserve = true
+
+[[files]]
+file = "config/freecam.json5"
+hash = "6911663f429949d6dbfe421c0f00cd060fd0ea7f9f1e9be8902ad40489ecd16c"
+preserve = true
+
+[[files]]
+file = "config/gteh_server_list_synchronizer_sync.json"
+hash = "775cc4e7df18272fff883f278349e0e976bdf540818e4a80b28bc034217e5ef1"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "4ea89cbcab7bf1689b926569c79f1613d578cfdb7e2f0dbc4cc7b7519f23229d"
+preserve = true
+
+[[files]]
+file = "config/resourcepackupdater.json"
+hash = "8189e59cb2c65387329bd8c799aa8308e7be3cd677afea5542b867de798786d9"
+
+[[files]]
+file = "config/slideshowproxy_remote_config_url.txt"
+hash = "c35fa5b9059e5f7608f3f6d51039fbc86b357021aee4d2a4c01f747cc3abda7a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "91710333bb9f541bc7be6f2c10589e0e5e57b424e26d5535fdfdad06cfa029a8"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "91710333bb9f541bc7be6f2c10589e0e5e57b424e26d5535fdfdad06cfa029a8"
 preserve = true
 
 [[files]]
@@ -92,6 +129,11 @@ hash = "ab0053f0fab7cdb40651af2746907c785d9a6fa95bafe962c30e1b2a6fa84862"
 metafile = true
 
 [[files]]
+file = "mods/gteh-server-list-sync.pw.toml"
+hash = "5b6a64f75c490e19b42aed51bdf0396adfaa2d182a0907c508562e20175987aa"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "2ec1fee57ab6e29b29a0073f794cc6322cded5e4b59a9edd60b44a0977ed3024"
 metafile = true
@@ -139,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "9e679a0ee7c9993f175b47ccff89f59bbc916c150bc2b61446a66849ea8f99e8"
+metafile = true
+
+[[files]]
+file = "mods/lpshelper.pw.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 metafile = true
 
 [[files]]
