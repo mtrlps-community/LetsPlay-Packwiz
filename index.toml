@@ -184,6 +184,7 @@ metafile = true
 [[files]]
 file = "mods/slideshowproxy.toml"
 hash = "4d182a918ec7e63af708d7e0407361ba02a5dd66d05b008237d7657b11c14f59"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
