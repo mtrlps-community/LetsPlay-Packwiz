@@ -78,6 +78,3 @@ flavors = ["masa_tweakeroo", "masa_all"]
 
 [metafile.tweakermore]
 flavors = ["masa_tweakermore", "masa_all"]
-
-[metafile.masa-mod-translationpack]
-flavors = ["masa_tweakeroo", "masa_all"]
