@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/update.yml"
-hash = "79b2eca996d0a81957fd051e48958962a6e2897eb0a58c8f14892d3d63415ad6"
-
-[[files]]
 file = "config/ModernUI/text.toml"
 hash = "e5f38dcbf01f56d38a4c0f9e00a0407aaed0d9cf84f27e23df02df26d8ab8471"
 preserve = true
