@@ -1,0 +1,79 @@
+name: Update Packwiz
+
+on:
+  push:
+    branches: 
+      - main
+  workflow_dispatch:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+
+      - name: Checkout official repo
+        uses: actions/checkout@v4
+        with:
+          repository: Minecraft-Transit-Railway/LetsPlay-Packwiz
+          ref: master
+          path: official
+      
+      - name: Checkout orphan branch
+        uses: actions/checkout@v4
+        with:
+          ref: unsup
+          path: unsup
+      
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+      
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+      
+      - name: Sync mods
+        run: |
+          rm -rf ./unsup/*
+          cp -rf ./official/mods/ ./unsup/
+          cp -rf ./.github/ ./unsup/
+          cp -rf ./content/* ./unsup/
+          echo "*.toml -text" > ./unsup/.gitattributes
+          
+      - name: Remove specified files from mods folder
+        run: |
+          cd ./unsup/mods/
+          while IFS= read -r filename; do
+            if [[ -n "$filename" && ! "$filename" =~ ^# ]]; then
+              echo "Deleting: $filename"
+              rm -f "$filename"
+            fi
+          done < ../../delete-list.txt
+
+      - name: Update mods & refresh packwiz metadata
+        run: |
+          cd ./unsup/
+          packwiz update --all --yes
+          find ./mods/ -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/mod.mcimirror.top/g' {} +
+          packwiz refresh
+      
+      - name: Commit & push to orphan branch
+        run: |
+          cd ./unsup/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update from workflow $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push origin unsup
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
