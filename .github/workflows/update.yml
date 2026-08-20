@@ -2,8 +2,11 @@ name: Update Packwiz
 
 on:
   push:
-    branches: ["main"]
+    branches: 
+      - main
   workflow_dispatch:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -43,6 +46,7 @@ jobs:
         run: |
           rm -rf ./unsup/*
           cp -rf ./official/mods/ ./unsup/
+          cp -rf ./.github/ ./unsup/
           cp -rf ./content/* ./unsup/
           echo "*.toml -text" > ./unsup/.gitattributes
           
