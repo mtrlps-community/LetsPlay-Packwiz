@@ -15,4 +15,4 @@ version = "cSYrag8g"
 [option]
 optional = true
 description = "将服务器玩家列表中的延迟 (ping) 显示为具体的数值。"
-default = false
+default = true

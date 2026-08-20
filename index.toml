@@ -26,7 +26,7 @@ preserve = true
 
 [[files]]
 file = "config/resourcepackupdater.json"
-hash = "8189e59cb2c65387329bd8c799aa8308e7be3cd677afea5542b867de798786d9"
+hash = "655335d61f08a50bc20d2047e6796bfe00106ed34795d2a21d0a555c0db8109e"
 
 [[files]]
 file = "config/slideshowproxy_remote_config_url.txt"
@@ -60,7 +60,7 @@ hash = "ce6c3288ea417fe1cde541ac1f1d6e555bc0f36532e7431207d2a2c451d7bac5"
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "344a3be286138d1c445bb299694571cda9bee6d2766b3ed61340a85fd69fbdd8"
+hash = "0e44e68f16e3ad47f2da32ea83dc018beaf1a0d0f3e5995132854c9586ab69d1"
 metafile = true
 
 [[files]]
@@ -81,6 +81,16 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "1408e2b04b548977a342d74a05fbf1db85f81a6c9ee5d8252268a457a3c1b2ad"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "fb6514ddf53a457dd1d7dc3a8530928e3b25b74b3dbb6fd2ca95ceeb0904c93c"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "34db33349184322d5188da6894c8e5f878a9c602d00f00687387a2a6bc329037"
 metafile = true
 
 [[files]]
@@ -134,6 +144,11 @@ hash = "5b6a64f75c490e19b42aed51bdf0396adfaa2d182a0907c508562e20175987aa"
 metafile = true
 
 [[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "5f6b817d5da08dbc2fff5b828586db654fd0f264334574a36676df1bf5d18616"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "2ec1fee57ab6e29b29a0073f794cc6322cded5e4b59a9edd60b44a0977ed3024"
 metafile = true
@@ -184,11 +199,6 @@ hash = "9e679a0ee7c9993f175b47ccff89f59bbc916c150bc2b61446a66849ea8f99e8"
 metafile = true
 
 [[files]]
-file = "mods/lpshelper.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "eb455f4a36ab96a3f63300dfa0142616bda5735ff8ea1096e59d29a5209c374f"
 metafile = true
@@ -201,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "5525ab010188c04d827de931327b38e57b7bea4638cb010bc89332aec2a03958"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6171bb2250dc987a1adbf213084a9452c8732a738b818fbd41f0eaac8a89ff96"
 metafile = true
 
 [[files]]
@@ -226,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "fc9380044843d2a90466f13f0b1b86e523cd853a2901212c2c5aba26db4cc38e"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "58204f1b26de2e262107603442be391a1fdb02378f0829c8b70f867afa309f19"
 metafile = true
 
 [[files]]
@@ -264,6 +284,11 @@ hash = "3b3736b986022aa58fbaf24f961eed906cd048af68bc708a59556004fd238455"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "2dcca639cc072fa88e88f38499ba022c01fa3fcc7fbd294cdb819745799847ba"
+metafile = true
+
+[[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "aec2bb044e806e58b0d6a61ecba24e5dffc5cc62824eb5f9f6470d574b647366"
 metafile = true
@@ -299,13 +324,18 @@ hash = "f677da8e261405b22d50962819a3390f4ca0c12d8296e58cb71ee046b236a5ee"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "d7a5c79316b4bd4bb3e344e1a8eeb5a01c84058f3a0e12326a6b2f001c2742ed"
+preserve = true
+
+[[files]]
 file = "resourcepacks/distant-horizons-zh.pw.toml"
-hash = "50b43647998bf41950399469a8da1352f4271e972533945046ea9b0ca22d3b1c"
+hash = "5507cddffd2cea05ab1cf381d868a38de25b0bf32fe70297edddc19d48253e19"
 metafile = true
 
 [[files]]
-file = "resourcepacks/masa-mod-translationpack.pw.toml"
-hash = "85256bba1977fdd212046f801837460543db6200044b42aa9c8f3db3f121fc88"
+file = "resourcepacks/sparkles.pw.toml"
+hash = "03f0991e2193909c541e9b272185eb1e72d5f3ed1ef6d0f8c2fd60f2eedfd329"
 metafile = true
 
 [[files]]
