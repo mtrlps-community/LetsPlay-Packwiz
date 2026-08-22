@@ -46,7 +46,7 @@ description = "不安装 MASA 系列 Mod。"
 [[flavor_groups.masa.choices]]
 id = "masa_tweakeroo"
 name = "Tweakeroo"
-description = "安装 MaLiLib、Tweakeroo 和中文翻译包。"
+description = "安装 MaLiLib 和 Tweakeroo。"
 
 [[flavor_groups.masa.choices]]
 id = "masa_tweakermore"
@@ -56,7 +56,7 @@ description = "安装 MaLiLib 和 TweakerMore。"
 [[flavor_groups.masa.choices]]
 id = "masa_all"
 name = "全部"
-description = "安装 MaLiLib、Tweakeroo、TweakerMore 和中文翻译包。"
+description = "安装 MaLiLib、Tweakeroo 和 TweakerMore。"
 
 [metafile.xaeros-minimap]
 flavors = ["xaero_minimap", "xaero_plus", "xaero_maplink", "xaero_all"]
