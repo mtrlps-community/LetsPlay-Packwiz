@@ -3,7 +3,7 @@ filename = "tweakermore-v3.33.0-mc1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/GBeCx05I/versions/32pMIsEY/tweakermore-v3.33.0-mc1.20.4.jar"
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/32pMIsEY/tweakermore-v3.33.0-mc1.20.4.jar"
 hash-format = "sha512"
 hash = "56836e71501858a58100acdc15eaae5309bb8ade3e0e915f6e42e5060167c0884e8d4faa352b9d21474015d38daead1594a8afcfeb31f527482873302497e43a"
 

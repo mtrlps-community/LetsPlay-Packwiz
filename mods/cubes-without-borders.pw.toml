@@ -3,7 +3,7 @@ filename = "cwb-fabric-3.0.0+mc1.20.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/ETlrkaYF/versions/KpTt0KNS/cwb-fabric-3.0.0%2Bmc1.20.jar"
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/KpTt0KNS/cwb-fabric-3.0.0%2Bmc1.20.jar"
 hash-format = "sha1"
 hash = "e303bca92b0724f69ce3d8cdb500fb4040e7482f"
 

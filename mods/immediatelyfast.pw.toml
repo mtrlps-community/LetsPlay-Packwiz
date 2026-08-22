@@ -3,7 +3,7 @@ filename = "ImmediatelyFast-Fabric-1.5.5+1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/5ZwdcRci/versions/iwYUrQJO/ImmediatelyFast-Fabric-1.5.5%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/iwYUrQJO/ImmediatelyFast-Fabric-1.5.5%2B1.20.4.jar"
 hash-format = "sha1"
 hash = "9f0110b60dc752ca093f2fc10a72d221b6dc8ac3"
 

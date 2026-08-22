@@ -3,7 +3,7 @@ filename = "ModernUI-Fabric-1.20.4-3.11.1.7-universal.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/3sjzyvGR/versions/VmXTWblB/ModernUI-Fabric-1.20.4-3.11.1.7-universal.jar"
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/VmXTWblB/ModernUI-Fabric-1.20.4-3.11.1.7-universal.jar"
 hash-format = "sha1"
 hash = "40f3f682fdbfabb756dda2a93f20da0b5b08cafb"
 

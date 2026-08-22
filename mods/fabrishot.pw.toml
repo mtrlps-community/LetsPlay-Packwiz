@@ -3,7 +3,7 @@ filename = "fabrishot-1.12.1.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/3qsfQtE9/versions/crC7YOpw/fabrishot-1.12.1.jar"
+url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/crC7YOpw/fabrishot-1.12.1.jar"
 hash-format = "sha1"
 hash = "c348c0966a2169a67f6a40f80a85c699104a8642"
 

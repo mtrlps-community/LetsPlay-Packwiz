@@ -3,7 +3,7 @@ filename = "ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://mod.mcimirror.top/data/ohNO6lps/versions/xbVGsTLe/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar"
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/xbVGsTLe/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar"
 hash-format = "sha1"
 hash = "d868c7cc72c0d3dc933baa4ef99eb63662a70c90"
 

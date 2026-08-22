@@ -3,7 +3,7 @@ filename = "IMBlocker-5.5.4-fabric+1.17-1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/WMDesFsZ/versions/g85fdqxk/IMBlocker-5.5.4-fabric%2B1.17-1.21.8.jar"
+url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/g85fdqxk/IMBlocker-5.5.4-fabric%2B1.17-1.21.8.jar"
 hash-format = "sha1"
 hash = "5977083d97739d5a3adaadef6154ac80907535b9"
 

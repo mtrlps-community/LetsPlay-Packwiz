@@ -3,7 +3,7 @@ filename = "Searchables-fabric-1.20.4-1.0.6.jar"
 side = "client"
 
 [download]
-url = "https://mod.mcimirror.top/data/fuuu3xnx/versions/CESw4Xj5/Searchables-fabric-1.20.4-1.0.6.jar"
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/CESw4Xj5/Searchables-fabric-1.20.4-1.0.6.jar"
 hash-format = "sha1"
 hash = "cd1169ca3f95308adcb6d41caa14a6f48a2f0302"
 
