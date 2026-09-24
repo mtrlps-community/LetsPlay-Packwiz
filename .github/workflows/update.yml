@@ -64,6 +64,7 @@ jobs:
         run: |
           cd ./unsup/
           packwiz update --all --yes
+          find ./mods/ -type f -name "*.pw.toml" -exec sed -i 's/cdn\.modrinth\.com/cdn-raw.modrinth.com/g' {} +
           packwiz refresh
       
       - name: Commit & push to orphan branch
