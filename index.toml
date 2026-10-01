@@ -21,7 +21,7 @@ hash = "775cc4e7df18272fff883f278349e0e976bdf540818e4a80b28bc034217e5ef1"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "4ea89cbcab7bf1689b926569c79f1613d578cfdb7e2f0dbc4cc7b7519f23229d"
+hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 preserve = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "94da284c0ca844ce23991d49bf91e969954fa2656a1a9900c0b67047a826fd7a"
+hash = "c536b083d2cf5a0cedd0b36a20efdbd482d83ab70521326e5be739bb50e9cc79"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "b64c6b4eda01b69e8669c226972293f7c57ac0f7a25bd52333eb54c4fae6e39f"
+hash = "565b988e37731b9f8fd926232edaa1cafd9cdf887225e6893b7faaa4a3a1b8d1"
 metafile = true
 
 [[files]]
